@@ -124,4 +124,4 @@ Located at Plot 241 Ajidagan Street, Gbagada Estate, Phase I, Lagos, Nigeria
 
 ---
 
-© 2024 Grace E. Schools. All rights reserved.
+© 2026 Grace E. Schools. All rights reserved.
