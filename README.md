@@ -143,12 +143,20 @@ For detailed information about the website architecture, development, and contri
 
 ## Future Enhancements
 
+### Phase 1: Basic Enhancements
 - Add interactive photo gallery
 - Implement backend for contact form
 - Add testimonials section
 - Include virtual campus tour
 - Add news and events section
 - Integrate social media feeds
+
+### Phase 2: Learning Management System (LMS)
+- **Integrate open-source LMS platform** for online learning capabilities
+- See **[LMS_EVALUATION_AND_RECOMMENDATIONS.md](LMS_EVALUATION_AND_RECOMMENDATIONS.md)** for detailed analysis
+- Recommended platform: **Moodle** (PHP-based, K-12 optimized, extensive features)
+- Alternative: **Canvas LMS** (modern UI, excellent mobile support)
+- Features: Student portal, parent access, assignments, grading, assessments, communication tools
 
 ## Credits
 
