@@ -107,6 +107,33 @@ GraceESchools.Com/
 ✅ Clear call-to-action buttons
 ✅ Detailed program information
 
+## Documentation
+
+For detailed information about the website architecture, development, and contribution guidelines, please refer to:
+
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Comprehensive architecture and implementation guide covering:
+  - System architecture overview
+  - Technology stack details
+  - Design system documentation
+  - Component architecture
+  - Deployment guidelines
+  - Best practices
+  
+- **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - Developer-focused implementation guide including:
+  - Quick start guide
+  - Step-by-step instructions for making changes
+  - Adding new features
+  - Testing procedures
+  - Deployment process
+  - Troubleshooting tips
+  
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contributing guidelines for developers:
+  - Code of conduct
+  - How to contribute
+  - Coding standards
+  - Pull request process
+  - Reporting issues
+
 ## Future Enhancements
 
 - Add interactive photo gallery
