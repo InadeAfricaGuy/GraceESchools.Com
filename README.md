@@ -111,7 +111,14 @@ GraceESchools.Com/
 
 For detailed information about the website architecture, development, and contribution guidelines, please refer to:
 
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Comprehensive architecture and implementation guide covering:
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** ⚡ - Quick reference guide for common tasks:
+  - Color palette and typography
+  - Common CSS classes
+  - Quick commands and Git workflow
+  - Troubleshooting tips
+  - At-a-glance task instructions
+
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** 🏗️ - Comprehensive architecture and implementation guide covering:
   - System architecture overview
   - Technology stack details
   - Design system documentation
@@ -119,15 +126,15 @@ For detailed information about the website architecture, development, and contri
   - Deployment guidelines
   - Best practices
   
-- **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - Developer-focused implementation guide including:
+- **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** 📖 - Developer-focused implementation guide including:
   - Quick start guide
   - Step-by-step instructions for making changes
   - Adding new features
   - Testing procedures
   - Deployment process
-  - Troubleshooting tips
+  - Code style guide
   
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contributing guidelines for developers:
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** 🤝 - Contributing guidelines for developers:
   - Code of conduct
   - How to contribute
   - Coding standards
