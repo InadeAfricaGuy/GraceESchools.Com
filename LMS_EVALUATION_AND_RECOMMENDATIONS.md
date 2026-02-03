@@ -135,7 +135,7 @@ This document provides a comprehensive evaluation of open-source Learning Manage
 **Repository:** https://github.com/instructure/canvas-lms  
 **License:** AGPL v3  
 **Technology:** Ruby on Rails, PostgreSQL, Redis  
-**Maturity:** First released 2011, 15+ years of development
+**Maturity:** First released 2011, 15 years of active development
 
 #### Strengths
 ✅ **Modern, intuitive interface** (best UX among open-source LMS)  
