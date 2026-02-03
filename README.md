@@ -153,7 +153,8 @@ For detailed information about the website architecture, development, and contri
 
 ### Phase 2: Learning Management System (LMS)
 - **Integrate open-source LMS platform** for online learning capabilities
-- See **[LMS_EVALUATION_AND_RECOMMENDATIONS.md](LMS_EVALUATION_AND_RECOMMENDATIONS.md)** for detailed analysis
+- See **[LMS_EXECUTIVE_SUMMARY.md](LMS_EXECUTIVE_SUMMARY.md)** for quick overview (decision makers)
+- See **[LMS_EVALUATION_AND_RECOMMENDATIONS.md](LMS_EVALUATION_AND_RECOMMENDATIONS.md)** for detailed technical analysis
 - Recommended platform: **Moodle** (PHP-based, K-12 optimized, extensive features)
 - Alternative: **Canvas LMS** (modern UI, excellent mobile support)
 - Features: Student portal, parent access, assignments, grading, assessments, communication tools
